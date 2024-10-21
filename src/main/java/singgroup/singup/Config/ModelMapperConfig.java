@@ -12,8 +12,8 @@ public class ModelMapperConfig {
         return new ModelMapperConfig();
     }
 
-
-    public UserEntity map(UserRegisterDto userRegisterDto, Class<UserEntity> userEntityClass) {
-        return null;
-    }
+/*
+   public UserEntity map(UserRegisterDto userRegisterDto, Class<UserEntity> userEntityClass) {
+     return null;
+    }*/
 }
